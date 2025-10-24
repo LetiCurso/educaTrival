@@ -4,9 +4,9 @@ Juego de preguntas para evaluar por equipos con tablero interactivo, puntuacione
 
 # 🎲 Proyecto Trival Interactivo - Desarrollo de Aplicaciones Web
 
-Este proyecto es el resultado de una **colaboración de 6 compañeros** durante las prácticas de desarrollo de aplicaciones web. Hemos trabajado en equipo, coordinándonos mediante **GitHub** y su control de versiones, además de crear diseños en **Figma** .  
-
+Este proyecto es el resultado de una **colaboración de 6 compañeros** durante las prácticas de desarrollo de aplicaciones web. Hemos trabajado en equipo, coordinándonos mediante **GitHub** y su control de versiones, además de crear diseños en **Figma** .
 Destacar el **aprendizaje autodidacta y colaboración constante** , ya que fuimos capaces de desarrollar un sistema funcional y bastante completo.
+Con el video quiero ayudar a comprender mejor el objetivo que se tenía a la hora de desarrollar el proyecto, pudiendo conocer si el proyecto es de interés para el usuario sin la necesidad de desacargar ni instalar ninguna dependencia en su dispositivo.
 
 ---
 
